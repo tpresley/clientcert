@@ -1,0 +1,15 @@
+{
+  "name": "clientcert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Troy Presleyt",
+  "license": "MIT",
+  "dependencies": {
+    "client-certificate-auth": "^0.3.0",
+    "express": "^4.13.4"
+  }
+}
